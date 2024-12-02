@@ -1,5 +1,6 @@
 # Kubernetes
 # Data and notes related to Kubernetes
+
 To get pods names:
     kubectl get pods
 To run a pod from an image:
