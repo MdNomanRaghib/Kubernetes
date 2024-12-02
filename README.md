@@ -1,7 +1,7 @@
 # Kubernetes
 # Data and notes related to Kubernetes  
 To get pods names:  
-    kubectl get pods  
+    kubectl get pods    
 To run a pod from an image:  
     kubectl run podname --image redis  
 To see extra details of pods:  
